@@ -9,7 +9,7 @@ namespace noget
     {
         static void Main(string[] args)
         {
-            RuntimeArgumentHandle
+            Program myProgram = new Program();
         }
     }
 }
