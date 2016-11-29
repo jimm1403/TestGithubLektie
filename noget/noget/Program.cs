@@ -9,8 +9,14 @@ namespace TestProjekt
     {
         static void Main(string[] args)
         {
-            RuntimeArgumentHandle
+            Program myProgram = new Program();
+            myProgram.Run();
                
+        }
+
+        public void Run()
+        {
+            Console.WriteLine("Hej Jens, det virker nu.");
         }
     }
 }
