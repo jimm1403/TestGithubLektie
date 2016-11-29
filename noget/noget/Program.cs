@@ -16,9 +16,7 @@ namespace TestProjekt
 
         public void Run()
         {
-            Console.WriteLine("Hej Jens, det virker nu.");
-            Console.WriteLine("Det virker aldrig :P ");
-            Console.ReadKey();
+
         }
     }
 }
